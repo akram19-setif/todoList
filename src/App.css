@@ -1,1 +1,7 @@
+/* App.css - Tailwind CSS will handle most styling */
 
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
